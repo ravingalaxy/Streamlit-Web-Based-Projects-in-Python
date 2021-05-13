@@ -10,3 +10,4 @@
 * Stock Price and Volution Visualization 
 * Machine Learning based Iris Flower Prediction 
 * Machine Learning based Penguin Classification
+* DNA Nucleotide Count
