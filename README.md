@@ -7,7 +7,8 @@
 2. Activate your environment ( **conda activate your_environment_name** ).
 3. **streamlit run your_script.py**.
 ## This repository contains following projects :
-* Stock Price and Volution Visualization 
-* Machine Learning based Iris Flower Prediction 
-* Machine Learning based Penguin Classification
-* DNA Nucleotide Count
+* Stock Price and Volution Visualization App
+* Machine Learning based Iris Flower Prediction  App
+* Machine Learning based Penguin Classification App
+* DNA Nucleotide Count App
+* ML based Molecular Solubility Prediction App
